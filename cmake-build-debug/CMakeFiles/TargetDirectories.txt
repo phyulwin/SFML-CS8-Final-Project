@@ -1,0 +1,3 @@
+C:/Users/646ca/CLionProjects/KellyLwin_finalproject/cmake-build-debug/CMakeFiles/SFML_template.dir
+C:/Users/646ca/CLionProjects/KellyLwin_finalproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/646ca/CLionProjects/KellyLwin_finalproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
