@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\646ca\CLionProjects\KellyLwin_finalproject\TextInput Select CMakeLists.txt
