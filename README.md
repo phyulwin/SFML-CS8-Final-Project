@@ -1,4 +1,5 @@
 # SFML-CS8-Final-Project
+This project was made for CS8 Spring 2023 course at Pasadena City College, CA. 
 # Notepad
 
 > PCC Spring 2023 CS8 Final Project Made with SFML Library
